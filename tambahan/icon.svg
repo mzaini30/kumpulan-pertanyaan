@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="/home/zen/aplikasi-android/murajaah/tambahan/icon.png"
+   inkscape:export-xdpi="74.832954"
+   inkscape:export-ydpi="74.832954"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.16403309"
+     inkscape:cx="-396.26151"
+     inkscape:cy="746.80054"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1330"
+     inkscape:window-height="743"
+     inkscape:window-x="36"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
+       id="rect815"
+       width="339.42264"
+       height="339.42264"
+       x="-269.54272"
+       y="-14.452381"
+       inkscape:export-xdpi="74.832954"
+       inkscape:export-ydpi="74.832954"
+       inkscape:export-filename="/home/zen/aplikasi-android/kumpulan-pertanyaan/tambahan/icon.png" />
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="m -103.10263,95.512406 a 6.732977,6.732977 0 0 1 6.544463,0 l 60.59679,33.664894 a 6.732977,6.732977 0 0 1 3.46079,5.88466 v 47.13076 a 6.73302,6.73302 0 1 1 -13.46604,0 v -35.68473 l -6.73283,3.73676 v 0.019 l -40.84911,20.30669 a 13.465953,13.465953 0 0 1 -12.442473,-0.23475 l -58.76534,-32.0558 a 6.732977,6.732977 0 0 0 -1.91218,-0.69281 6.732977,6.732977 0 0 1 2.96914,-8.41617 z m -43.85853,67.821264 v 25.59208 a 6.732977,6.732977 0 0 0 3.72323,6.0194 l 40.39793,20.19887 a 6.732977,6.732977 0 0 0 6.019203,0 l 40.39793,-20.19887 a 6.732977,6.732977 0 0 0 3.72341,-6.0194 v -21.9225 l -40.95674,19.14859 a 13.465953,13.465953 0 0 1 -12.152953,-0.37789 l -41.15201,-22.43418 z"
+       fill="currentColor"
+       id="path826-3"
+       style="stroke-width:6.73298;fill:#ffffff"
+       inkscape:export-filename="/home/zen/aplikasi-android/kumpulan-pertanyaan/tambahan/icon.png"
+       inkscape:export-xdpi="74.832954"
+       inkscape:export-ydpi="74.832954" />
+  </g>
+</svg>

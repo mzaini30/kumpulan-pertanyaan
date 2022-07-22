@@ -1,4 +1,4 @@
-export default [
+const pertanyaan = [
   "Apakah kredit itu harus memegang barangnya terlebih dahulu?",
   "Apakah nyicil barang itu termasuk riba?",
   "Apakah pelaku riba syariah itu keluar dari agama?",
