@@ -11,4 +11,11 @@ const pertanyaan = [
   "Melihat aurat di kartun apakah zina mata?",
   "Buku Mukadiman Ibnu Khaldun ditulis dalam bahasa apa?",
   "Apa yang dimaksud dengan kesiapan diri sebelum belajar?",
+  "Kalau shalat Jumat, shalat Dzuhurnya gimana?",
+  "Surat apa yang menjelaskan tentang zina?",
+  "Apa itu kuanta?",
+  "Kenama Khalifah Makmun mengatakan bahwa Quran adalah makhluk?",
+  "Bisakah kita menyadari bahwa benda tiba-tiba bergerak?",
+  "Apa hukuman zina di neraka?",
+  "Apakah Khalifah Makmun itu muslim?",
 ];
