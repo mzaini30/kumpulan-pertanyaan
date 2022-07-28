@@ -1,6 +1,7 @@
 <script lang="ts" setup="">
 import acak from "../lib/acak";
-import listPertanyaan from "../pertanyaan";
+// @ts-ignore
+import listPertanyaan from "../pertanyaan.yml";
 import { ref } from "vue";
 
 const pertanyaan = ref(listPertanyaan);
