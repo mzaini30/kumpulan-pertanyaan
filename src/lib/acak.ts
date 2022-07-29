@@ -1,4 +1,4 @@
-export default function acak(array) {
+export default function acak(array: any[]) {
   var currentIndex = array.length,
     temporaryValue,
     randomIndex;

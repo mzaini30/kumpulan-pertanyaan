@@ -3,12 +3,14 @@ import acak from "../lib/acak";
 // @ts-ignore
 import listPertanyaan from "../pertanyaan.yml";
 import { ref } from "vue";
+import Info from "../komponen/info.vue";
 
 const pertanyaan = ref(listPertanyaan);
 const data = ref(acak(pertanyaan.value));
 </script>
 
 <template>
+  <Info></Info>
   <div class="p-4 text-xl">
     {{ pertanyaan[0] }}
   </div>
