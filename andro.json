@@ -1,9 +1,9 @@
 {
-  "folder": "apps",
+  "folder": "dist",
   "judul": "Kumpulan Pertanyaan",
   "admobApplication": "ca-app-pub-9804745932553029~7353459727",
   "admobBanner": "ca-app-pub-9804745932553029/4727296381",
   "startAds": "206797995",
-  "versi": 3,
+  "versi": 4,
   "id": "com.mzaini30.kumpulanpertanyaan"
 }
